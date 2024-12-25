@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        gradientOrange: '#FF7D1F',
+        gradientPurple: '#880E9C',
+        linkColor: '#C7495A',
+        grey: '#232323',
+        lightGrey: '#303030',
       },
     },
   },

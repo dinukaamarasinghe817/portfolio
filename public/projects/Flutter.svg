@@ -1,0 +1,33 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_9_249" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="0" width="22" height="26">
+<path d="M23.4336 11.9974L16.4349 18.9986L23.4336 25.9998H15.4361L8.43492 18.9986L15.4361 11.9974H23.4336ZM15.4361 0L2.43747 12.9986L6.43744 16.9986L23.4336 0H15.4361Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_9_249)">
+<path d="M8.43741 18.9986L12.4349 22.9986L23.4335 11.9974H15.4361L8.43741 18.9986Z" fill="white"/>
+</g>
+<mask id="mask1_9_249" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="0" width="22" height="26">
+<path d="M23.4336 11.9974L16.4349 18.9986L23.4336 25.9998H15.4361L8.43492 18.9986L15.4361 11.9974H23.4336ZM15.4361 0L2.43747 12.9986L6.43744 16.9986L23.4336 0H15.4361Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_9_249)">
+<path d="M15.4361 0H23.4336L6.43744 16.9986L2.43747 12.9986L15.4361 0Z" fill="white"/>
+</g>
+<mask id="mask2_9_249" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="0" width="22" height="26">
+<path d="M23.4336 11.9974L16.4349 18.9986L23.4336 25.9998H15.4361L8.43492 18.9986L15.4361 11.9974H23.4336ZM15.4361 0L2.43747 12.9986L6.43744 16.9986L23.4336 0H15.4361Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_9_249)">
+<path d="M12.4349 22.9986L15.4361 25.9974H23.4335L16.4348 18.9987L12.4349 22.9986Z" fill="white"/>
+</g>
+<mask id="mask3_9_249" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="0" width="22" height="26">
+<path d="M23.4336 11.9974L16.4349 18.9986L23.4336 25.9998H15.4361L8.43492 18.9986L15.4361 11.9974H23.4336ZM15.4361 0L2.43747 12.9986L6.43744 16.9986L23.4336 0H15.4361Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_9_249)">
+<path d="M8.43698 18.9972L12.437 14.9971L16.4374 18.9972L12.437 22.9973L8.43698 18.9972Z" fill="white"/>
+</g>
+<path d="M23.4336 11.9974L16.4349 18.9986L23.4336 25.9998H15.4361L8.43492 18.9986L15.4361 11.9974H23.4336ZM15.4361 0L2.43747 12.9986L6.43744 16.9986L23.4336 0H15.4361Z" fill="url(#paint0_radial_9_249)"/>
+<defs>
+<radialGradient id="paint0_radial_9_249" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.02732 1.77207) scale(31.8076)">
+<stop stop-color="white" stop-opacity="0.1"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
